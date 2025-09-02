@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Roman 👋  
 
-<!--
-**ximeg/ximeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer | Data Science • Instrumentation • Open-Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Featured Projects
+
+- [**microsync**](https://github.com/stjude-smc/microsync)  
+  Microsecond-precision synchronization device for lasers, shutters, stages, and cameras.  
+  *Designed and implemented firmware (C++/SAM3X), hardware integration, and documentation.*  
+
+- [**SPARTAN**](https://github.com/stjude-smc/SPARTAN)  
+  Tools for high-throughput microarrayed data analysis.  
+  *Developed modules for flexible data processing and visualization pipelines.*  
+
+- [**r-hyperspec**](https://github.com/r-hyperspec/hySpc.read.spe)  
+  R package for hyperspectral data analysis.  
+  *Mentored Google Summer of Code student; reviewed and merged major contributions for data I/O and processing.*  
+
+---
+
+### 📌 Contributions & Organizations
+- Member of [**St. Jude Single-Molecule Center**](https://github.com/stjude-smc) – building next-gen single-molecule imaging tools.  
+- Contributor to [**r-hyperspec**](https://github.com/r-hyperspec) – advancing open-source spectroscopy data analysis.  
+
+---
+
+### 🌱 About Me
+- Engineer with background in **data science, optics, CAD, and molecular biology**.  
+- Passionate about building hardware–software systems for **scientific discovery**.  
+- Enjoy collaborating on open-source tools in life sciences & instrumentation.
+- Fun fact: I love rock climbing
+
